@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A passionate Front-End Developer from [Your Location]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+
 
 - 🌱 I’m currently learning **Git, GitHub, and advanced React concepts**  
 - 🔭 I’m currently working on **[Your Current Project]**  
