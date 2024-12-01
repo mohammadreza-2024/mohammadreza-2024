@@ -34,5 +34,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&locale=en" alt="yourusername" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&" alt="yourusername" />
 </p>
