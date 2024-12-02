@@ -9,12 +9,18 @@ I'm a passionate front-end developer with a knack for building responsive, inter
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🔥 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+## 💥 GitHub Commit Stats
+![GitHub Commits](https://img.shields.io/github/commits-since/yourusername/yourrepo/1.0.0?style=flat-square)
+
+## 🌱 Visitors Badge
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
 
 ## 🛠️ My Projects
 ### 1. **[Project Name](Project URL)**
