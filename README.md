@@ -40,6 +40,7 @@ I'm a passionate front-end developer with a knack for building responsive, inter
 - Advanced React Patterns
 - Server-side rendering with Next.js
 - Web performance optimization
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=exampleuser.my-awesome-project)
 
 ## 💬 Let's Connect
 - [LinkedIn](LinkedIn URL)
