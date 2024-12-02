@@ -22,6 +22,10 @@ I'm a passionate front-end developer with a knack for building responsive, inter
 ## 📈 GitHub Commits
 ![GitHub Commits](https://img.shields.io/github/commits-since/yourusername/yourrepo/1.0.0?style=flat-square)
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadreza-2024&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
 
 ## 🌱 Visitors Badge
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=mohammadreza-2024.mohammadreza-2024)
