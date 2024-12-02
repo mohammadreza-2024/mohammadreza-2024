@@ -12,6 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  img href="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
   <img align="center" Style={color:"#fff"} src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="linkedin-profile" height="30" width="40" />
 </a>
