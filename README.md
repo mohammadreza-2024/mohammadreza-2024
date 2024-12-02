@@ -24,8 +24,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/html5.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/css3.svg" alt="css3" width="40" height="40"/> </a> 
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/react.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/git.svg" alt="git" width="40" height="40"/> </a> 
