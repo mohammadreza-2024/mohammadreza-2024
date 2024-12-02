@@ -6,80 +6,20 @@
 
 ## 🚀 Technologies & Skills
 
-<table>
-  <tr>
-    <td><b>HTML5</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 90%; background-color: #f06529; color: white; text-align: center; padding: 3px 0;">90%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>CSS3</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 85%; background-color: #2965f1; color: white; text-align: center; padding: 3px 0;">85%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>JavaScript</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 80%; background-color: #f7df1e; color: black; text-align: center; padding: 3px 0;">80%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>TypeScript</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 70%; background-color: #007acc; color: white; text-align: center; padding: 3px 0;">70%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>React</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 95%; background-color: #61dafb; color: black; text-align: center; padding: 3px 0;">95%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tailwind CSS</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 85%; background-color: #38b2ac; color: white; text-align: center; padding: 3px 0;">85%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Bootstrap</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 80%; background-color: #563d7c; color: white; text-align: center; padding: 3px 0;">80%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Git</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 90%; background-color: #f05032; color: white; text-align: center; padding: 3px 0;">90%</div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td><b>GitHub</b></td>
-    <td>
-      <div style="width: 100%; background-color: #ddd;">
-        <div style="width: 85%; background-color: #181717; color: white; text-align: center; padding: 3px 0;">85%</div>
-      </div>
-    </td>
-  </tr>
-</table>
+
+
+<p align="center">
+  <img src="https://readme-progress-circle.vercel.app/api?skill=HTML5&percentage=90&color=F06529" alt="HTML5" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=CSS3&percentage=85&color=2965F1" alt="CSS3" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=JavaScript&percentage=80&color=F7DF1E" alt="JavaScript" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=TypeScript&percentage=70&color=007ACC" alt="TypeScript" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=React&percentage=95&color=61DAFB" alt="React" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=Tailwind%20CSS&percentage=85&color=38B2AC" alt="Tailwind CSS" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=Bootstrap&percentage=80&color=563D7C" alt="Bootstrap" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=Git&percentage=90&color=F05032" alt="Git" width="150" />
+  <img src="https://readme-progress-circle.vercel.app/api?skill=GitHub&percentage=85&color=181717" alt="GitHub" width="150" />
+</p>
+
 
 ---
 
